@@ -7,11 +7,11 @@
   },
   "dependencies": {
     "express": "latest",
-    "ws": "latest"
+    "ws": "latest",
+    "typescript": "latest",
+    "ts-node": "latest"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "ts-node": "latest",
     "@types/express": "latest",
     "@types/node": "latest"
   }
