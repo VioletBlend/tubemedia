@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "ts-node-esm src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "ws": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "ts-node": "latest",
+    "@types/express": "latest",
+    "@types/node": "latest"
+  }
+}
