@@ -22,6 +22,8 @@ winget install Gyan.FFmpeg
 
 git clone https://github.com/VioletBlend/tubemedia.git
 
+cd tubemedia
+
 npm install
 
 npm run build
