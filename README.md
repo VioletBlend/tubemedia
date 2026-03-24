@@ -1,4 +1,9 @@
-```
+# TubeMedia
+
+<br>
+
+```bash
+
    git clone https://github.com/VioletBlend/tubemedia/
    cd tubemedia
    npm install
@@ -11,7 +16,8 @@
 
 <br>
 
-   ```
+   ```bash
+
    cd tubemedia
    cd py2rest
    python main py
