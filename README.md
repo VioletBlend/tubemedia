@@ -4,11 +4,11 @@
 
 ```bash
 
-   git clone https://github.com/VioletBlend/tubemedia/
-   cd tubemedia
-   npm install
-   npm run build
-   npm start
+git clone https://github.com/VioletBlend/tubemedia/
+cd tubemedia
+npm install
+npm run build
+npm start
 
 ```
 
@@ -18,9 +18,9 @@
 
    ```bash
 
-   cd tubemedia
-   cd py2rest
-   python main.py
+cd tubemedia
+cd py2rest
+python main.py
 
 ```
 
