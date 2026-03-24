@@ -20,7 +20,7 @@
 
    cd tubemedia
    cd py2rest
-   python main py
+   python main.py
 
 ```
 
